@@ -1,0 +1,6 @@
+Kasir: Milan Jovanovic
+Racuni: 2000,3330,9999,1122.2
+Kasir:Pera Peric
+Racuni: 2999,3333,444,5555
+Kasir:Joca Jovanovic
+Racuni: 3939,333,44,55
